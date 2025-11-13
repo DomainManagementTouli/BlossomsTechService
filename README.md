@@ -1,1 +1,1 @@
-![BlossomsTechService Logo](BST.png)
+![BlossomsTechService Logo](BlossomLogo.png)
